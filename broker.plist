@@ -10,19 +10,19 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>http://114.80.230.232:8080/AnjukeBroker_New.ipa</string>
+      <string>http://114.80.230.196/AnjukeBroker_New.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
       <string>display-image</string>
       <key>url</key>
-      <string>http://114.80.230.232:8080/ICON.png</string>
+      <string>http://114.80.230.196/ICON.png</string>
      </dict>
      <dict>
       <key>kind</key>
       <string>full-size-image</string>
       <key>url</key>
-      <string>http://114.80.230.232:8080/ICON.png</string>
+      <string>http://114.80.230.196/ICON.png</string>
      </dict>
     </array>
     <key>metadata</key>
