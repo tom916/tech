@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+ <dict>
+  <key>items</key>
+  <array>
+   <dict>
+    <key>assets</key>
+    <array>
+     <dict>
+      <key>kind</key>
+      <string>software-package</string>
+      <key>url</key>
+      <string>http://114.80.230.232:8080/AnjukeBroker_New.ipa</string>
+     </dict>
+     <dict>
+      <key>kind</key>
+      <string>display-image</string>
+      <key>url</key>
+      <string>http://114.80.230.232:8080/ICON.png</string>
+     </dict>
+     <dict>
+      <key>kind</key>
+      <string>full-size-image</string>
+      <key>url</key>
+      <string>http://114.80.230.232:8080/ICON.png</string>
+     </dict>
+    </array>
+    <key>metadata</key>
+    <dict>
+     <key>title</key>
+     <string>calculator</string>
+     <key>bundle-version</key>
+     <string>2.0.0</string>
+     <key>kind</key>
+     <string>software</string>
+     <key>bundle-identifier</key>
+     <string>com.funnco.funnc</string>
+    </dict>
+   </dict>
+  </array>
+ </dict>
+</plist>
+
